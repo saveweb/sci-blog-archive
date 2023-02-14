@@ -5,9 +5,10 @@
 
 ---
 
-576041 篇文章已存档
+594000 篇文章已存档
 
-> ArticleID 范围 1~1300000 ，有效id 911787 个，有效文章 576041 篇。
+> ArticleID 范围 1~1321356 ，有效id 930830 个，有效文章 594000 篇。  
+> 已追赶到：2022-1-16
 
 文章URL形式： `https://blog.sciencenet.cn/blog-<UserID>-<ArticleID>.html`
 
